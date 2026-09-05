@@ -22,7 +22,7 @@ Configuration defended before a jury of industry experts at Cranfield.
 
 | | |
 |---|---|
-| ![BW-25 turbofan cross-section](docs/bwb-2.png) | ![Nacelle and fan](docs/bwb-3.jpg) |
+| ![BW-25 turbofan cross-section](docs/bwb-2.jpg) | ![Nacelle and fan](docs/bwb-3.jpg) |
 | ![Structural layout](docs/bwb-4.jpg) | ![Cutaway: cabin, hydrogen tanks and engine](docs/bwb-5.png) |
 
 ## Report
