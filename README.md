@@ -29,6 +29,10 @@ Configuration defended before a jury of industry experts at Cranfield.
 
 [Project report](report/memoire-BWB.pdf) (group deliverable).
 
+## Rights and attribution
+
+The report and figures are shared for portfolio and academic-review purposes. Copyright remains with their respective authors and Cranfield University; no reuse licence is granted for those materials.
+
 ## Context
 
 Cranfield University, Aerospace Vehicle Design MSc, 2025 to 2026. More on my [portfolio](https://ugo-roccamatisi.github.io).
